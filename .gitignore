@@ -1,0 +1,11 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build and dependency output (future-proofing)
+dist/
+node_modules/

@@ -4,7 +4,7 @@ Herz is a small creative front-end project exploring how far **HTML, CSS, SVG, a
 
 The goal is to create a large, rich crimson heart that feels dimensional and alive: it will breathe with a slow heartbeat, glow gently with each pulse, and subtly follow the viewer's pointer. The intended style is a polished, realistic-inspired anime illustration made from code rather than a static image.
 
-> **Project status:** Early setup. The visual scene and animations are planned; they are not implemented yet.
+> **Project status:** The initial static page is in place. The custom SVG heart, dimensional shading, heartbeat, glow, and pointer-follow animation are planned next.
 
 ## ✨ The idea
 
@@ -33,7 +33,7 @@ No front-end framework is planned for the first version. Keeping the project dep
 
 ## 🚀 Run locally
 
-The initial project scaffold is being built. Once the starter files are available, you can run the page by opening `index.html` in a modern browser.
+The starter files are available. Open `index.html` directly in a modern browser to preview the initial page.
 
 For a local development server, you can also use the **Live Server** extension in Visual Studio Code. A simple static project does not require a package installation or build step.
 
@@ -58,7 +58,7 @@ See the [project issues](https://github.com/zeynep-sr/heart/issues) for the deta
 
 The intended atmosphere is dramatic, intimate, and minimal: a deep background, a vivid red heart, dimensional highlights, and motion that feels alive without becoming distracting. The heart should remain the clear focal point—large and immersive, with animation that feels smooth rather than exaggerated.
 
-The final appearance will be refined as the SVG, lighting, and animation layers come together.
+The current page contains the initial scene and placeholder mark. The final appearance will be refined as the custom SVG, lighting, and animation layers come together.
 
 ## 📌 Project principles
 
