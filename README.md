@@ -1,6 +1,6 @@
 # Herz ❤️ — Animated Heart Experience
 
-
+Burası çok önemli 
 Ürem Sancaktutan
 
 Commit mesajının sonundaki ortak yazar satırı:
