@@ -1,6 +1,6 @@
 # Herz ❤️ — Animated Heart Experience
 
-
+Burası çok önemli 
 Ürem Sancaktutan
 
 Commit mesajının sonundaki ortak yazar satırı:
@@ -27,6 +27,11 @@ The finished page is intended to feature:
 The target is **expressive and stylized, not medical**. The heart is a visual artwork and will not represent a clinical heart model.
 
 ## 🛠️ Built with
+
+feat: refine the SVG heart silhouette
+Balance the upper lobes, center cleft, and tapered point with mirrored Bézier handles.
+
+Co-authored-by: I-am-Kedy <arineceaksoy@gmail.com>
 
 The project will use browser-native technologies:
 
