@@ -28,6 +28,11 @@ The target is **expressive and stylized, not medical**. The heart is a visual ar
 
 ## 🛠️ Built with
 
+feat: refine the SVG heart silhouette
+Balance the upper lobes, center cleft, and tapered point with mirrored Bézier handles.
+
+Co-authored-by: I-am-Kedy <arineceaksoy@gmail.com>
+
 The project will use browser-native technologies:
 
 - **HTML5** for the page structure.
